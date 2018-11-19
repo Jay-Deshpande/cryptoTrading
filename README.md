@@ -1,0 +1,2 @@
+# cryptoTrading
+Algorithmically trade cryptocurrencies 
